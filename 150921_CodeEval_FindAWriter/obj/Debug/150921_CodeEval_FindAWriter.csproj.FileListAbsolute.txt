@@ -1,0 +1,12 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\150921_CodeEval_FindAWriter\150921_CodeEval_FindAWriter\bin\Debug\150921_CodeEval_FindAWriter.exe.config
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\150921_CodeEval_FindAWriter\150921_CodeEval_FindAWriter\bin\Debug\150921_CodeEval_FindAWriter.exe
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\150921_CodeEval_FindAWriter\150921_CodeEval_FindAWriter\bin\Debug\150921_CodeEval_FindAWriter.pdb
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\150921_CodeEval_FindAWriter\150921_CodeEval_FindAWriter\obj\Debug\150921_CodeEval_FindAWriter.csprojResolveAssemblyReference.cache
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\150921_CodeEval_FindAWriter\150921_CodeEval_FindAWriter\obj\Debug\150921_CodeEval_FindAWriter.exe
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\150921_CodeEval_FindAWriter\150921_CodeEval_FindAWriter\obj\Debug\150921_CodeEval_FindAWriter.pdb
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\Week3 - Strings & Text, Numeral Systems, Methods, Recursion\150921_CodeEval_FindAWriter\150921_CodeEval_FindAWriter\bin\Debug\150921_CodeEval_FindAWriter.exe.config
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\Week3 - Strings & Text, Numeral Systems, Methods, Recursion\150921_CodeEval_FindAWriter\150921_CodeEval_FindAWriter\obj\Debug\150921_CodeEval_FindAWriter.exe
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\Week3 - Strings & Text, Numeral Systems, Methods, Recursion\150921_CodeEval_FindAWriter\150921_CodeEval_FindAWriter\obj\Debug\150921_CodeEval_FindAWriter.pdb
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\Week3 - Strings & Text, Numeral Systems, Methods, Recursion\150921_CodeEval_FindAWriter\150921_CodeEval_FindAWriter\bin\Debug\150921_CodeEval_FindAWriter.exe
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\Week3 - Strings & Text, Numeral Systems, Methods, Recursion\150921_CodeEval_FindAWriter\150921_CodeEval_FindAWriter\bin\Debug\150921_CodeEval_FindAWriter.pdb
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\Week3 - Strings & Text, Numeral Systems, Methods, Recursion\150921_CodeEval_FindAWriter\150921_CodeEval_FindAWriter\obj\Debug\150921_CodeEval_FindAWriter.csprojResolveAssemblyReference.cache
